@@ -4,7 +4,7 @@ import './Post.css'
 
 export default function Post({ post }) {
     // console.log(props);
-    
+
     return (
         <div className='post'>
             <div className="postWrapper">
